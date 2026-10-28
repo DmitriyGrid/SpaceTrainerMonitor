@@ -1,0 +1,12 @@
+
+# Qt Creator
+**/build/
+**/build-*/
+**/.qtcreator/
+**/.qtc_clangd/
+*.user
+*.user.*
+
+# CMake
+**/CMakeFiles/
+**/CMakeCache.txt
